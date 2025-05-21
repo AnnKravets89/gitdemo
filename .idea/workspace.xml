@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a855ab-c0f9-414e-9e44-5f5f42ec08c2" name="Changes" comment="del test.txt xxx.txt">
-      <change afterPath="$PROJECT_DIR$/conflict" afterDir="false" />
-    </list>
+    <list default="true" id="74a855ab-c0f9-414e-9e44-5f5f42ec08c2" name="Changes" comment="new file conflict.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,7 @@
       <updated>1747729856144</updated>
       <workItem from="1747729856846" duration="9067000" />
       <workItem from="1747758950924" duration="1768000" />
-      <workItem from="1747814430077" duration="714000" />
+      <workItem from="1747814430077" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -100,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747814541203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new file conflict.txt">
+      <option name="closed" value="true" />
+      <created>1747815338846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747815338846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +129,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="another file" />
     <MESSAGE value="del test.txt xxx.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="del test.txt xxx.txt" />
+    <MESSAGE value="new file conflict.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file conflict.txt" />
   </component>
 </project>
