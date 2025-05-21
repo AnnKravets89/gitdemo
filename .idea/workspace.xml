@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a855ab-c0f9-414e-9e44-5f5f42ec08c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../git-demo/fail.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../git-demo/.idea/git-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../git-demo/git-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +15,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../git-demo" value="e930c49e8c91f050161fac986f0a97ec1ca6d634" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../git-demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnnKravets89"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnnKravets89/gitdemo.git",
+    "accountId": "987cbcfd-ded7-43f9-8783-61b014e8ffeb"
+  }
+}]]></component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
   </component>
@@ -36,9 +47,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "e930c49e",
+    "git-widget-placeholder": "new__branch",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/git-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747729856144</updated>
       <workItem from="1747729856846" duration="9067000" />
+      <workItem from="1747758950924" duration="1768000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
