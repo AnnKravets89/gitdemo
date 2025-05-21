@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a855ab-c0f9-414e-9e44-5f5f42ec08c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="74a855ab-c0f9-414e-9e44-5f5f42ec08c2" name="Changes" comment="del test.txt xxx.txt">
+      <change afterPath="$PROJECT_DIR$/conflict" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,23 +15,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="new_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AnnKravets89"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnnKravets89&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AnnKravets89/gitdemo.git",
-    "accountId": "987cbcfd-ded7-43f9-8783-61b014e8ffeb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnnKravets89/gitdemo.git&quot;,
+    &quot;accountId&quot;: &quot;987cbcfd-ded7-43f9-8783-61b014e8ffeb&quot;
   }
-}]]></component>
+}</component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
   </component>
@@ -49,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "new__branch",
+    "git-widget-placeholder": "clear-branch",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/USER/WebstormProjects/git-demo",
     "node.js.detected.package.eslint": "true",
@@ -82,6 +82,7 @@
       <updated>1747729856144</updated>
       <workItem from="1747729856846" duration="9067000" />
       <workItem from="1747758950924" duration="1768000" />
+      <workItem from="1747814430077" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -91,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747738178451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="del test.txt xxx.txt">
+      <option name="closed" value="true" />
+      <created>1747814541203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747814541203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="another file" />
-    <option name="LAST_COMMIT_MESSAGE" value="another file" />
+    <MESSAGE value="del test.txt xxx.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="del test.txt xxx.txt" />
   </component>
 </project>
